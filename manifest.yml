@@ -1,4 +1,5 @@
 ---
 applications:
 - name: FiapCloud
+  buildpack: https://github.com/rodrigogrohl/vaccine-cards.git
 
