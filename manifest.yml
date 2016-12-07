@@ -1,5 +1,10 @@
 ---
 applications:
 - name: FiapCloud
+  host: FiapCloud
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  disk_quota: 1024M
   buildpack: https://github.com/rodrigogrohl/vaccine-cards.git
 
