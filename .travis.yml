@@ -6,5 +6,5 @@ deploy:
    username: $CF_USER
    password: $CF_PWD
    api: $CF_API
-   organization: rodrigorocha
+   organization: rodrigogrohl
    space: dev
