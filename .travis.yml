@@ -1,0 +1,10 @@
+language: java
+
+deploy:
+   edge: true
+   provider: cloudfoundry
+   username: $CF_USER
+   password: $CF_PWD
+   api: $CF_API
+   organization: rodrigogrohl
+   space: dev
