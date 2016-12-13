@@ -1,7 +1,7 @@
 ---
 applications:
-- name: FiapCloud
-  host: FiapCloud
+- name: vaccine-cards
+  host: vaccine-cards
   memory: 512M
   instances: 1
   domain: mybluemix.net
