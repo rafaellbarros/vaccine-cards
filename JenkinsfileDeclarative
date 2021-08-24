@@ -5,7 +5,7 @@ pipeline {
         jdk 'jdk8'
         maven 'maven3'
     }
-    //https://github.com/rodrigogrohl/vaccine-cards.git
+    //https://github.com/rafaellbarros/vaccine-cards
     stages {
         stage('Install') {
             steps {

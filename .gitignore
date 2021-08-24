@@ -13,4 +13,5 @@ hs_err_pid*
 
 # Added by Rodrigo
 target/
+.vscode/
 
